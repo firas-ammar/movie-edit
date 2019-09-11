@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-edit/static/css/main.2cce8147.chunk.css",
+    "main.js": "/movie-edit/static/js/main.2bf9c673.chunk.js",
+    "main.js.map": "/movie-edit/static/js/main.2bf9c673.chunk.js.map",
+    "runtime~main.js": "/movie-edit/static/js/runtime~main.b1e06efc.js",
+    "runtime~main.js.map": "/movie-edit/static/js/runtime~main.b1e06efc.js.map",
+    "static/css/2.0d4e36f0.chunk.css": "/movie-edit/static/css/2.0d4e36f0.chunk.css",
+    "static/js/2.4045fcac.chunk.js": "/movie-edit/static/js/2.4045fcac.chunk.js",
+    "static/js/2.4045fcac.chunk.js.map": "/movie-edit/static/js/2.4045fcac.chunk.js.map",
+    "index.html": "/movie-edit/index.html",
+    "precache-manifest.659640e4084efe674517952c30834385.js": "/movie-edit/precache-manifest.659640e4084efe674517952c30834385.js",
+    "service-worker.js": "/movie-edit/service-worker.js",
+    "static/css/2.0d4e36f0.chunk.css.map": "/movie-edit/static/css/2.0d4e36f0.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/movie-edit/static/css/main.2cce8147.chunk.css.map",
+    "static/media/mdb.css": "/movie-edit/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/movie-edit/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/menblack.jpg": "/movie-edit/static/media/menblack.ed8d3abb.jpg",
+    "static/media/ninja.jpg": "/movie-edit/static/media/ninja.258c1dd3.jpg",
+    "static/media/wick.jpg": "/movie-edit/static/media/wick.1bdbe889.jpg"
+  }
+}
